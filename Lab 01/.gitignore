@@ -1,6 +1,0 @@
-x64/
-packages/
-.vs/
-*.vcxproj.user
-*/Debug
-*/x64
